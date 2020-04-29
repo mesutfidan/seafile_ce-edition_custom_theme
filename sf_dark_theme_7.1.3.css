@@ -1,20 +1,19 @@
-
 @media (prefers-color-scheme: dark) {
     :root {
 
-        --main-bg: #282c34;                
-        --dark-bg: #21252b;                   
-        --light-bg: #333842;             
+        --main-bg: rgb(32, 32, 32);                
+        --dark-bg: #800000;                   
+        --light-bg: rgb(32, 32, 32);            
 
-        --main-font: #ababab;               
-        --light-font: #eee;                 
-        --dark-font: #888;                  
+        --main-font: rgb(180, 188, 194);               
+        --light-font: #00BFFF;                 
+        --dark-font: rgb(180, 188, 194);                  
 
-        --main-theme: #6C86B7;              
-        --theme-font: #6C86B7;              
+        --main-theme: #800000;              
+        --theme-font: rgb(180, 188, 194);             
 
-        --border: rgba(34, 34, 34, 0.9);                    
-        --shadow: rgba(10, 10, 10, 0.8);
+        --border: rgb(180, 188, 194);                    
+        --shadow: rgba(0, 0, 0, 0.3);         
         --no-shadow: rgba(0, 0, 0, 0);      
         --green: #326732;
         --info: #676732;
@@ -24,18 +23,18 @@
 
 @media (prefers-color-scheme: light) {
     :root {
-        --main-bg: #fff;                
-        --dark-bg: rgb(203, 223, 233);                   
-        --light-bg: rgb(241, 250, 255);            
+        --main-bg: #f3f9ff;                
+        --dark-bg: #800000;                   
+        --light-bg: #F0F8FF;            
 
-        --main-font: #404650;               
-        --light-font: #1a1a1a;                 
-        --dark-font: #535d68;                  
+        --main-font: #000000;               
+        --light-font: #00BFFF;                 
+        --dark-font: #000000;                  
 
-        --main-theme: rgb(190, 213, 255);              
-        --theme-font: rgb(92, 113, 153);              
+        --main-theme: #DC143C;              
+        --theme-font: #000000;             
 
-        --border: rgba(230, 230, 230, 0.6);                    
+        --border: #000000;                    
         --shadow: rgba(0, 0, 0, 0.3);         
         --no-shadow: rgba(0, 0, 0, 0);      
         --green: #326732;
@@ -1657,4 +1656,3 @@ pre {
 .css-1tlqf55 {
     color: var(--main-font) !important;
 }
-
