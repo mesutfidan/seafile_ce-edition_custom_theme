@@ -6,14 +6,14 @@
         --light-bg: rgb(32, 32, 32);            
 
         --main-font: rgb(180, 188, 194);               
-        --light-font: #00BFFF;                 
+        --light-font:rgb(180, 188, 194);                 
         --dark-font: rgb(180, 188, 194);                  
 
         --main-theme: #800000;              
         --theme-font: rgb(180, 188, 194);             
 
         --border: rgb(180, 188, 194);                    
-        --shadow: rgba(0, 0, 0, 0.3);         
+        --shadow: #0001028e;         
         --no-shadow: rgba(0, 0, 0, 0);      
         --green: #326732;
         --info: #676732;
@@ -35,7 +35,7 @@
         --theme-font: #000000;             
 
         --border: #000000;                    
-        --shadow: rgba(0, 0, 0, 0.3);         
+        --shadow: #f3f9ff91;         
         --no-shadow: rgba(0, 0, 0, 0);      
         --green: #326732;
         --info: #676732;
