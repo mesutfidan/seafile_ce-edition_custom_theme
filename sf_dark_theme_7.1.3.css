@@ -1,7 +1,7 @@
 @media (prefers-color-scheme: dark) {
     :root {
 
-        --main-bg: rgb(32, 32, 32);                
+        --main-bg: #2f3031;                
         --dark-bg: #800000;                   
         --light-bg: rgb(32, 32, 32);            
 
@@ -23,7 +23,7 @@
 
 @media (prefers-color-scheme: light) {
     :root {
-        --main-bg: #f3f9ff;                
+        --main-bg: ##eff3f6;                
         --dark-bg: #800000;                   
         --light-bg: #F0F8FF;            
 
